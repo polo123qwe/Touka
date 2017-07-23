@@ -1,0 +1,19 @@
+{
+  "name": "touka",
+  "version": "1.0.0",
+  "description": "A Discord bot, made for fun and usability.",
+  "main": "Touka.js",
+  "scripts": {
+    "test": "node Touka.js --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polo123qwe/Touka.git"
+  },
+  "author": "polo123qwe and AmeryKr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polo123qwe/Touka/issues"
+  },
+  "homepage": "https://github.com/polo123qwe/Touka#readme"
+}
