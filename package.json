@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/polo123qwe/Touka/issues"
   },
-  "homepage": "https://github.com/polo123qwe/Touka#readme"
+  "homepage": "https://github.com/polo123qwe/Touka#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "uws": "^8.14.0"
+  }
 }
