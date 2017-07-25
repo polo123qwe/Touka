@@ -1,0 +1,14 @@
+{
+    "bot": {
+        "token": "",
+        "defSuffix": "!"
+    },
+
+    "database": {
+        "host": "",
+        "port": "",
+        "db": "",
+        "user": "",
+        "password": ""
+    }
+}

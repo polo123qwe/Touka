@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/polo123qwe/Touka#readme",
   "dependencies": {
+    "chalk": "^2.0.1",
     "discord.js": "^11.1.0",
     "uws": "^8.14.0"
   }
